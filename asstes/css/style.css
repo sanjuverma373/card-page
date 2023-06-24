@@ -318,7 +318,7 @@ font-size: 17px;
   display: flex;
   justify-content: center;
   padding-bottom: 23px;
-  font-size: 11px;
+  font-size: 5px;
 
 }
 .mb-11 {
@@ -382,6 +382,6 @@ font-weight: 600;
 }
 .font{
   color: #FFF;
-font-size: 14px;
+font-size: 10px;
 font-family: 'Poppins', sans-serif;
 }
