@@ -44,9 +44,10 @@
   padding-bottom: 48px;
   
 }
-nav {
+header {
   background-image: url(../image/headerbackimg.png);
   background-size: cover;
+  background-position: center;
 }
 
 .align-item-center {
@@ -255,9 +256,9 @@ font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 14px;
   color: #ffffff;
-  max-width: 320px;
-  line-height: 20px;
+  
   margin-bottom: 15px;
+  
 }
 .serv {
   font-family: "Poppins";
@@ -295,9 +296,28 @@ font-family: Poppins;
 
 
 }
-.ml-70{
-  margin-left: 70px;
-  
+.e1{
+  color: #2C49FE;
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 135%;
+  margin-bottom: 40px;
+}
+.e2{
+  color: #2C49FE;
+  font-size: 30px;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 135%;
+}
+
+.free{
+  color: #01c8ff;
+font-size: 30px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 135%;
 }
 .mb-11 {
   margin-bottom: 11px;
@@ -364,6 +384,7 @@ line-height: 150%;
     padding-left: 12px;
     padding-right: 12px;
   }
+  
 
 }
 
@@ -401,6 +422,9 @@ line-height: 150%;
     width: 33.33%;
     padding-left: 12px;
     padding-right: 12px;
+  }
+  .para{
+    max-width: 320px;
   }
  
 }
